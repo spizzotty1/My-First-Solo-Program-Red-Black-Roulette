@@ -1,2 +1,4 @@
 # My-First-Solo-Program-Red-Black-Roulette
 Simple choice game Red//Black Roulette with 100 choice memory for probability guessing with win streak bonuses.  
+The reason for writing this program is so that I can learn and remember how and why I did what I did to complete the code for the game.
+I will come back here as I go traverse this path of the unknown and make it become comfortible.
